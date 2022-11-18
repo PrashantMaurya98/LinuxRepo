@@ -1,0 +1,2 @@
+Heloo this is from branch1
+Now to use this we have to merge branch1 and the default master branch
